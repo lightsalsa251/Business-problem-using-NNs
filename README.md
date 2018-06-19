@@ -4,6 +4,7 @@ This is a model for a bank problem in which the bank decides that if a customer 
 ## Activation Functions
 * ReLu, sigmoid and tanh are the most popular hidden layer activation functions used.
 * For output layer the activation functions used commonly are softmax and sigmoid.
+![acativation](https://cdn-images-1.medium.com/max/1600/1*A_Bzn0CjUgOXtPCJKnKLqA.jpeg)
 ## Installation
 ### Download the data
 * Clone this repository to your computer.
